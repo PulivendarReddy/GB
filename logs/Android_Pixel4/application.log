@@ -1,0 +1,84 @@
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:51:56.381 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:51:56.385 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:51:56.387 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:11.125 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:17.917 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:20.093 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:21.885 BaseTest:179 - Appium server stopped
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:51.141 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:51.144 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:52:51.146 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:06.118 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:11.685 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:14.504 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:15.901 BaseTest:322 - click on continue as guest
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:18.716 BaseTest:322 - click on Next button
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:20.099 BaseTest:322 - click on Push notification
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:21.298 BaseTest:322 - click on get started
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:44.901 BaseTest:368 - scrolled into New in for you
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:46.080 BaseTest:136 - video path: videos\Android_Pixel4\2022-10-13-12-52-51\HomeTests\Hometesting.mp4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:53:46.770 BaseTest:179 - Appium server stopped
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:00.127 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:00.131 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:00.132 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:14.624 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:22.118 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:24.850 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:26.473 BaseTest:322 - click on continue as guest
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:29.048 BaseTest:322 - click on Next button
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:30.422 BaseTest:322 - click on Push notification
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:31.676 BaseTest:322 - click on get started
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:45.193 BaseTest:368 - scrolled into New in for you
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:46.241 BaseTest:136 - video path: videos\Android_Pixel4\2022-10-13-12-54-00\HomeTests\Hometesting.mp4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:54:46.977 BaseTest:179 - Appium server stopped
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:55:55.972 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:55:55.976 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:55:55.977 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:10.005 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:17.195 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:20.186 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:21.632 BaseTest:322 - click on continue as guest
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:24.856 BaseTest:322 - click on Next button
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:26.651 BaseTest:322 - click on Push notification
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:27.792 BaseTest:322 - click on get started
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:36.136 BaseTest:368 - scrolled into Edit your favorites
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:37.528 BaseTest:136 - video path: videos\Android_Pixel4\2022-10-13-12-55-55\HomeTests\Hometesting.mp4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:56:38.326 BaseTest:179 - Appium server stopped
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:35.900 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:35.905 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:35.906 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:46.962 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:54.088 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:56.710 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:57:58.897 BaseTest:322 - click on continue as guest
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:02.337 BaseTest:322 - click on Next button
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:03.888 BaseTest:322 - click on Push notification
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:05.036 BaseTest:322 - click on get started
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:20.335 BaseTest:368 - scrolled into Your Favorite new arrivals
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:21.678 BaseTest:136 - video path: videos\Android_Pixel4\2022-10-13-12-57-35\HomeTests\Hometesting.mp4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 12:58:22.630 BaseTest:179 - Appium server stopped
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:14:23.184 BaseTest:225 - log path: logs\Android_Pixel4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:14:23.202 BaseTest:232 - load config.properties
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:14:23.202 BaseTest:237 - load strings/strings.xml
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:14:46.149 BaseTest:283 - driver initialized: io.appium.java_client.android.AndroidDriver, Capabilities: {appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, chromeDriverPort=11000, databaseEnabled=false, desired={platformName=android, chromeDriverPort=11000, appActivity=com.altlab.glamourbook.glamour_book.MainActivity, appPackage=com.altlab.glamourbook.glamour_book, automationName=UiAutomator2, avd=Pixel4, avdLaunchTimeout=120000, deviceName=Pixel4, systemPort=10000, udid=ZD2224NTKG}, deviceApiLevel=30, deviceManufacturer=Google, deviceModel=sdk_gphone_x86, deviceName=emulator-5554, deviceScreenDensity=440, deviceScreenSize=1080x2280, deviceUDID=emulator-5554, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, pixelRatio=2.75, platform=LINUX, platformName=Android, platformVersion=11, statBarHeight=135, systemPort=10000, takesScreenshot=true, udid=ZD2224NTKG, viewportRect={left=0, top=135, width=1080, height=1842}, warnings={}, webStorageEnabled=false}
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:03.823 HomeTests:50 - 
+****** starting test:Hometesting******
+
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:06.077 BaseTest:322 - click on Accept all
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:08.460 BaseTest:322 - click on continue as guest
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:11.863 BaseTest:322 - click on Next button
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:13.697 BaseTest:322 - click on Push notification
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:14.913 BaseTest:322 - click on get started
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:43.175 BaseTest:368 - scrolled into Your Favorite new arrivals
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:44.508 BaseTest:136 - video path: videos\Android_Pixel4\2022-10-13-15-14-23\HomeTests\Hometesting.mp4
+[logsAndroid_Pixel4 INFO ] 2022-10-13 15:15:45.341 BaseTest:179 - Appium server stopped

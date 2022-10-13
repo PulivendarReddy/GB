@@ -1,0 +1,25 @@
+{
+	"invalidUser":{
+		"username":"invalidusername",
+		"password":"secret_sauce",
+		"senddata":"apple"
+	},
+	"invalidPassword":{
+		"username":"standard_user",
+		"password":"invalidpassword"
+	},
+		"Blankfield":{
+		"username":"",
+		"password":""
+	},
+	"validUser":{
+		"username":"standarduser@gmail.com",
+		"password":"secret_sauce"
+	},
+	"Registerdata":
+	{
+	    "CountryName":"india",
+		"MobileNumber":"9666519736",
+		"OTP":"345678"
+	}
+}
